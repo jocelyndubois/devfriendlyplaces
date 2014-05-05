@@ -11,7 +11,7 @@ Current locations
  - Lille: [lille.devfriendlyplaces.net][lille]
  - London: [london.devfriendlyplaces.net][london]
  - Lyon: [lyon.devfriendlyplaces.net][lyon]
- - Montauban [montauban.devfriendlyplaces.net][montauban]
+ - Montauban: [montauban.devfriendlyplaces.net][montauban]
  - Paris: [paris.devfriendlyplaces.net][paris]
  - Toulon: [toulon.devfriendlyplaces.net][toulon]
  - Toulouse: [toulouse.devfriendlyplaces.net][toulouse]
